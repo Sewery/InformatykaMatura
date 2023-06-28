@@ -1,0 +1,14 @@
+id_systemu;system_operacyjny;wersja
+1;Windows;NT 5.1
+2;Windows;NT 6.0
+3;Windows;NT 6.1
+4;Windows;NT 10
+5;Windows;NT 11
+6;Mac OS;12
+7;Mac OS;10.15
+8;Mac OS;X
+9;Linux;x86_64
+10;Linux;Unknown
+11;Android;11
+12;Android;6
+13;Unknown;Unknown

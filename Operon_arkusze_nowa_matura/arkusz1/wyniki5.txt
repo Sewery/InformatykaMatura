@@ -1,0 +1,29 @@
+zad5_1
+91
+
+zad5_2
+IMIE	NAZWISKO
+Julita	Winkowska
+
+zad5_3
+IMIE	NAZWISKO
+Martyna	Kawczyńska
+
+zad5_4
+IMIE	NAZWISKO
+Patrycja	Kempka
+Magdalena	Kaca
+Michał	Chmielarski
+Marta	Kęsikowska
+Bogumiła	Mazurkiewicz
+Hanna	Lejer
+Monika	Masiakowska
+Daria	Grzelak
+Monika	Komisarek
+Natalia	Żbikowska
+Krzysztof	Gębski
+Anna	Kamierczak
+Robert	Konitz
+
+zad5_5
+41400

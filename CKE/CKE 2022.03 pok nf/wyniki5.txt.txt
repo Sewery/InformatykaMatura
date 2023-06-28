@@ -1,0 +1,17 @@
+zad 5.1
+Rok	LiczbaWplyniec
+2016	2531
+2017	2522
+2018	2449
+2019	2532
+
+zad 5.2
+
+zad 5.3
+Nabrzeze	
+ALMEX	
+BYTOMSKIE USKOK	
+CAL	
+OKO BASEN	
+PRCIP	
+REMSTAT	

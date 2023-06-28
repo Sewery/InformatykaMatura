@@ -1,0 +1,234 @@
+zad5.1
+nazwisko_imie	kraj punkty
+EISENBICHLER Markus Niemcy	117,1
+
+zad5.2
+Najmniej zawodnikow wystawionych:
+nazwa	liczba
+Estonia	1
+Włochy	1
+Bułgaria	1
+Kanada	1
+Najwiecej zawodnikow wystawionych:
+Austria 15
+
+zad5.3
+Suma odl	nazwisko_imie		Kraj
+5726,5	KOBAYASHI Ryoyu 	Japonia
+
+zad5.4
+nazwisko_imie	 	kraj  		punkty
+KUBACKI Dawid	 	Polska		542
+KOBAYASHI Ryoyu 	Japonia		538
+JOHANSSON Robert	Norwegia		484
+zad5.5
+KOBAYASHI Ryoyu	, 189
+zad5.6
+miasto	nazwa	PoliczOfkod_skoczka
+Wisła	Norwegia	4
+Wisła	Austria	4
+Wisła	Niemcy	4
+Wisła	Polska	4
+Wisła	Japonia	4
+Wisła	Słowenia	4
+Wisła	Rosja	3
+Wisła	Szwajcaria	3
+Zakopane	Norwegia	4
+Zakopane	Finlandia	1
+Zakopane	Kanada	1
+Zakopane	Włochy	1
+Zakopane	Austria	4
+Zakopane	Niemcy	5
+Zakopane	Polska	5
+Zakopane	Japonia	4
+Zakopane	Słowenia	5
+Lahti	Norwegia	5
+Lahti	Finlandia	1
+Lahti	Kanada	1
+Lahti	Austria	4
+Lahti	Niemcy	5
+Lahti	Polska	6
+Lahti	Japonia	3
+Lahti	Słowenia	4
+Lahti	Szwajcaria	1
+Willingen	Norwegia	5
+Willingen	Kanada	1
+Willingen	Bułgaria	1
+Willingen	Austria	4
+Willingen	Niemcy	3
+Willingen	Polska	5
+Willingen	Japonia	5
+Willingen	Słowenia	3
+Willingen	Rosja	1
+Willingen	Szwajcaria	2
+Klingenthal	Norwegia	4
+Klingenthal	Finlandia	1
+Klingenthal	Austria	5
+Klingenthal	Niemcy	4
+Klingenthal	Polska	6
+Klingenthal	Japonia	4
+Klingenthal	Słowenia	4
+Klingenthal	Rosja	1
+Klingenthal	Szwajcaria	1
+Rasnov	Norwegia	4
+Rasnov	Bułgaria	1
+Rasnov	Austria	4
+Rasnov	Niemcy	5
+Rasnov	Polska	6
+Rasnov	Japonia	2
+Rasnov	Słowenia	4
+Rasnov	Rosja	2
+Rasnov	Szwajcaria	2
+Predazzo	Norwegia	4
+Predazzo	Finlandia	1
+Predazzo	Czechy	1
+Predazzo	Bułgaria	1
+Predazzo	Austria	5
+Predazzo	Niemcy	5
+Predazzo	Polska	4
+Predazzo	Japonia	3
+Predazzo	Słowenia	4
+Predazzo	Szwajcaria	2
+Sapporo	Norwegia	3
+Sapporo	Czechy	2
+Sapporo	Austria	5
+Sapporo	Niemcy	4
+Sapporo	Polska	4
+Sapporo	Japonia	6
+Sapporo	Słowenia	5
+Sapporo	Szwajcaria	1
+Oslo	Norwegia	3
+Oslo	Finlandia	1
+Oslo	Czechy	3
+Oslo	Austria	6
+Oslo	Niemcy	3
+Oslo	Polska	4
+Oslo	Japonia	4
+Oslo	Słowenia	3
+Oslo	Rosja	1
+Oslo	Szwajcaria	2
+Lillehammer	Norwegia	5
+Lillehammer	Finlandia	1
+Lillehammer	Kanada	1
+Lillehammer	Czechy	1
+Lillehammer	Austria	5
+Lillehammer	Niemcy	5
+Lillehammer	Polska	4
+Lillehammer	Japonia	3
+Lillehammer	Słowenia	2
+Lillehammer	Rosja	1
+Lillehammer	Szwajcaria	2
+Trondheim	Norwegia	5
+Trondheim	Finlandia	1
+Trondheim	Czechy	2
+Trondheim	Austria	4
+Trondheim	Niemcy	4
+Trondheim	Polska	4
+Trondheim	Japonia	5
+Trondheim	Słowenia	2
+Trondheim	Rosja	1
+Trondheim	Szwajcaria	2
+Ruka	Norwegia	4
+Ruka	Finlandia	1
+Ruka	Austria	3
+Ruka	Niemcy	6
+Ruka	Polska	6
+Ruka	Japonia	3
+Ruka	Słowenia	4
+Ruka	Szwajcaria	2
+Ruka	Estonia	1
+Vikersund	Norwegia	5
+Vikersund	Finlandia	1
+Vikersund	Kanada	1
+Vikersund	Austria	3
+Vikersund	Niemcy	5
+Vikersund	Polska	4
+Vikersund	Japonia	3
+Vikersund	Słowenia	4
+Vikersund	Rosja	3
+Vikersund	Szwajcaria	1
+Planica	Norwegia	3
+Planica	Austria	4
+Planica	Niemcy	5
+Planica	Polska	4
+Planica	Japonia	6
+Planica	Słowenia	5
+Planica	Rosja	2
+Planica	Szwajcaria	1
+Niżny Tagił	Norwegia	6
+Niżny Tagił	Austria	4
+Niżny Tagił	Niemcy	3
+Niżny Tagił	Polska	4
+Niżny Tagił	Japonia	4
+Niżny Tagił	Słowenia	4
+Niżny Tagił	Rosja	3
+Niżny Tagił	Szwajcaria	2
+Engelberg	Norwegia	4
+Engelberg	Finlandia	1
+Engelberg	Kanada	1
+Engelberg	Austria	5
+Engelberg	Niemcy	4
+Engelberg	Polska	5
+Engelberg	Japonia	4
+Engelberg	Słowenia	4
+Engelberg	Rosja	1
+Engelberg	Szwajcaria	1
+Garmisch-Partenkirchen	Norwegia	4
+Garmisch-Partenkirchen	Finlandia	1
+Garmisch-Partenkirchen	Kanada	1
+Garmisch-Partenkirchen	Austria	5
+Garmisch-Partenkirchen	Niemcy	5
+Garmisch-Partenkirchen	Polska	5
+Garmisch-Partenkirchen	Japonia	4
+Garmisch-Partenkirchen	Słowenia	3
+Garmisch-Partenkirchen	Rosja	1
+Garmisch-Partenkirchen	Szwajcaria	1
+Oberstdorf	Norwegia	4
+Oberstdorf	Finlandia	2
+Oberstdorf	Czechy	2
+Oberstdorf	Austria	3
+Oberstdorf	Niemcy	4
+Oberstdorf	Polska	4
+Oberstdorf	Japonia	5
+Oberstdorf	Słowenia	4
+Oberstdorf	Rosja	1
+Oberstdorf	Szwajcaria	1
+Insbruk	Norwegia	4
+Insbruk	Finlandia	2
+Insbruk	Kanada	1
+Insbruk	Austria	6
+Insbruk	Niemcy	3
+Insbruk	Polska	5
+Insbruk	Japonia	3
+Insbruk	Słowenia	4
+Insbruk	Rosja	1
+Insbruk	Szwajcaria	1
+Bischofshofen	Norwegia	5
+Bischofshofen	Finlandia	1
+Bischofshofen	Austria	7
+Bischofshofen	Niemcy	4
+Bischofshofen	Polska	5
+Bischofshofen	Japonia	4
+Bischofshofen	Słowenia	2
+Bischofshofen	Rosja	2
+Titisee-Neustadt	Norwegia	4
+Titisee-Neustadt	Finlandia	2
+Titisee-Neustadt	Kanada	1
+Titisee-Neustadt	Bułgaria	1
+Titisee-Neustadt	Austria	5
+Titisee-Neustadt	Niemcy	6
+Titisee-Neustadt	Polska	6
+Titisee-Neustadt	Japonia	2
+Titisee-Neustadt	Słowenia	2
+Titisee-Neustadt	Estonia	1
+
+zad5_7
+przekroczyli skocznie:
+40
+zad5.7a)
+skocznia	miasto	punkt_HS
+s7	Insbruk	128
+
+zad5.7b)
+Ilosc skokow powyzej HS	nazwisko_imie
+6	KOBAYASHI Ryoyu

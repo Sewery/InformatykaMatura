@@ -1,0 +1,51 @@
+5.1
+20021536689
+09311045276
+
+5.2
+przedział lat	ilość osób w dziesięcioleciu
+1920-1929	103
+1930-1939	130
+1940-1949	95
+1950-1959	102
+1960-1969	105
+1970-1979	112
+1980-1989	115
+1990-1999	110
+2000-2009	128
+
+5.3
+Etykiety wierszy	Liczba z PESEL
+AstraZeneca		132
+	kobieta		49
+	mężczyzna	83
+Johnson&Johnson		381
+	kobieta		166
+	mężczyzna	215
+Moderna			261
+	kobieta		117
+	mężczyzna	144
+Pfizer			226
+	kobieta		103
+	mężczyzna	123
+Suma końcowa		1000
+
+5.4
+691
+
+5.5
+Najwięcej szczepień wykonano w 9 godzinie szczepień, od godziny 16:00 do 17:00
+
+Etykiety wierszy	Liczba z godzina
+8			108
+9			108
+10			109
+11			107
+12			110
+13			107
+14			115
+15			111
+16			125
+Suma końcowa		1000
+
+

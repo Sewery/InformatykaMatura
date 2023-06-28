@@ -1,0 +1,6 @@
+Zad 4_1
+Najwieksza 1056392131, najmniejsza 1
+Zad 4_2 
+Dlugosc:17 ,poczatek 193134524 ,koniec 223545714
+Zad 4_3 
+Max Krotnosc:31 ,luki 11 149 

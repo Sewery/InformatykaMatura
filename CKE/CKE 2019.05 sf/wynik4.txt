@@ -1,0 +1,9 @@
+Zad4_1
+18
+Zad4_2
+2
+145
+1
+40585
+Zad4_3
+Najwieksza dlugosc:150 , Pierwsza liczba:31968 , Najwiekszy wspolny dzilenik:74

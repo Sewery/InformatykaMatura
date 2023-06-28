@@ -1,0 +1,22 @@
+kod_skoczni	miasto	kod_kraju 	punkt_HS	punkt_K
+s1	Wis³a	k4	134	120
+s2	Ruka	k10	142	120
+s3	Ni¿ny Tagi³	k7	134	120
+s4	Engelberg	k8	140	125
+s5	Garmisch-Partenkirchen	k3	142	125
+s6	Oberstdorf	k3	235	200
+s7	Insbruk	k2	128	120
+s8	Bischofshofen	k2	142	125
+s9	Titisee-Neustadt	k3	142	125
+s10	Zakopane	k4	140	125
+s11	Lahti	k10	130	116
+s12	Willingen	k3	147	130
+s13	Klingenthal	k3	140	125
+s14	Rasnov	k15	97	90
+s15	Predazzo	k14	135	120
+s16	Sapporo	k5	137	123
+s17	Oslo	k1	134	120
+s18	Lillehammer	k1	140	123
+s19	Trondheim	k1	138	124
+s20	Vikersund	k1	240	200
+s21	Planica	k6	240	200

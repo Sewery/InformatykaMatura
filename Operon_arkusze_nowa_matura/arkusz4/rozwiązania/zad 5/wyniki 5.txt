@@ -1,0 +1,71 @@
+5.1
+Klasa	% stan mężczyzn
+1a	30,00
+1i	29,03
+1e	27,27
+1h	27,27
+
+5.2
+Maksymalne
+SumaOfPunkty	Klasa	Nazwisko	Imie
+50		1g	Błachnio	Marta
+50		1a	Lebioda		Maciej
+50		1b	Różańska	Dagmara
+50		1e	Zmitrowicz	Lidia
+
+Minimalne
+SumaOfPunkty	Klasa	Nazwisko	Imie
+12		1a	Złotowska	Dominika
+
+
+5.3
+Ocena	Przedział procentowy	Ilość osób
+6	100% – 98%		4
+5	90% – 98%		0
+4	75% – 98%		6
+3	50% – 74%		220
+2	30% – 49%		28
+1	0% – 29%		5
+
+5.4
+ID_pytania	1	2	3	4	5	6
+p_1		35	41	47	51	47	42
+p_2		51	55	62	43	52	
+p_3		64	52	50	43	54	
+p_4		69	62	62	70		
+p_5		60	46	42	57	58	
+p_6		79	62	62	60		
+p_7		67	66	69	61		
+p_8		37	40	63	38	42	43
+p_9		63	63	40	49	48	
+p_10		37	47	38	48	46	47
+
+5.5
+najłatwiejsze
+ID_pytania	%
+p_4		62,64
+
+najtrudniejsze
+ID_pytania	%
+p_9		56,65
+
+5.6
+Klasa	Imie		Nazwisko	przekroczenie
+1g	Anna		Urbańska	27,00
+1g	Magdalena	Gaca		23,00
+1d	Michał		Chojnacki	22,00
+1b	Arkadiusz	Czerniak	21,00
+1e	Agata		Krasińska	15,00
+1c	Stefan		Perszka		14,00
+1h	Róża		Fac		11,00
+1a	Aleksandra	Garczyńska	11,00
+1a	Aleksander	Szews		8,00
+1f	Patrycja	Kempka		6,00
+1c	Stefania	Zduńczuk	6,00
+1f	Aleksandra	Sztejka		5,00
+1i	Wojciech	Marciniak	2,00
+1f	Agnieszka	Witt		2,00
+1e	Zuzanna		Rywak		1,00
+
+
+

@@ -1,0 +1,24 @@
+Zad5_1:
+Koszty: 15950	Przychody:39600	 Koszty mniejsze od przychodwo po raz pierwszy:1.6.2023
+
+Zad5_2:
+Miesiac: sty, Dochod:-7430
+Miesiac: lut, Dochod:600
+Miesiac: mar, Dochod:1590
+Miesiac: kwi, Dochod:2250
+Miesiac: maj, Dochod:2850
+Miesiac: cze, Dochod:3660
+Miesiac: lip, Dochod:4920
+Miesiac: sie, Dochod:5610
+Miesiac: wrz, Dochod:4320
+Miesiac: paz, Dochod:1890
+Miesiac: lis, Dochod:2040
+Miesiac: gru, Dochod:1350
+
+Zad5_3:
+a)47
+b)57
+c)66
+
+Zad5_4:
+Przychody: 249630	Koszty: 100655

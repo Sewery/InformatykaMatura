@@ -1,0 +1,16 @@
+kod_kraju	nazwa
+k1	Norwegia
+k2	Austria
+k3	Niemcy
+k4	Polska
+k5	Japonia
+k6	S³owenia
+k7	Rosja
+k8	Szwajcaria
+k9	Estonia
+k10	Finlandia
+k11	Kanada
+k12	Czechy
+k13	Bu³garia
+k14	W³ochy
+k15	Rumunia

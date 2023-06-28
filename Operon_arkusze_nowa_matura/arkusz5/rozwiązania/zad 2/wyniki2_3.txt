@@ -1,0 +1,3 @@
+Suma liczb ujemnych: -12337
+Suma liczb dodatnich: 6363
+

@@ -1,0 +1,24 @@
+zad 5.1
+
+temp pow <=15
+88
+temp pow>15 i opad<=0,6
+73
+temp pow>15 i opad>0,6
+22
+
+zad 5.2
+
+6 maja 2015
+13172 litrow
+
+zad 5.4
+
+Miesiace	oplata
+kwiecień	0,00 zł
+maj	164,36 zł
+czerwiec	1 056,60 zł
+lipiec	2 559,32 zł
+sierpień	3 651,14 zł
+wrzesień	1 326,62 zł
+

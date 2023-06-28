@@ -1,0 +1,23 @@
+zad4.1
+1244,73
+
+zad4.2
+3
+
+zad4.3
+		Data		Dlugosc lotu
+Najdluzej lot 	08.09.2021	1784,36
+Najkrocej lot	30.09.2021	338,26
+
+zad4.4
+19.09.2021
+
+zad4.5	
+Najwiekszy zysk	Data
+71500		23.09.2021
+	
+Calkowity Zysk	
+4529000	
+
+zad4.6
+12

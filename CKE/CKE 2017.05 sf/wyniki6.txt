@@ -1,0 +1,8 @@
+Zad 6_1
+najciemniej 7, najjasniej 221
+Zad 6_2
+149
+Zad 6_3
+753
+Zad 6_4
+5

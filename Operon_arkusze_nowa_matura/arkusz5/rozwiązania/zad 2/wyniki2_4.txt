@@ -1,0 +1,2 @@
+Liczba ciągów rosnących: 43
+Liczba ciągów malejacych: 39

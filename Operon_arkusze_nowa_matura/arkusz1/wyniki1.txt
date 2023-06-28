@@ -1,0 +1,6 @@
+Zad 1_1:
+308
+Zad 1_2:
+Pierwszy wyraz:1749, najdluzszy ciag:27
+Zad 1_3:
+57

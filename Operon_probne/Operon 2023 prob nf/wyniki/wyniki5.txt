@@ -1,0 +1,21 @@
+Zadanie 5.1
+
+wymiana tarcz hamulcowych	12
+wymiana końcówki drążka	12
+
+Zadanie 5.2
+
+Mercedes Sprinter 32
+
+Zadanie 5.3
+
+AA023
+
+Zadanie 5.4
+
+AA019	23:12:00
+
+Zadanie 5.5
+a)  AA019	9462,79
+b)  96162,56
+

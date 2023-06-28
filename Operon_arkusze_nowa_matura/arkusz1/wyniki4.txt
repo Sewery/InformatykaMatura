@@ -1,0 +1,27 @@
+zad4.1	
+KLASA	PESEL
+A	95052600643
+B	95100700282
+C	95121002200
+H	94063002080
+
+zad4.2	
+w excelu
+
+zad4.3
+w excelu
+
+zad4.4
+	Średnia  z matmy w %	Średnia z polskiego w %
+Kobiety		76,66		64,25
+Mezczyzni	70,68		59,37
+
+zad4.5
+Zestawienie zdajacych wiecej niż dwa przedmioty rozszerzone z poszczegolnych klas 
+Klasa	Mezczyzna	Kobieta
+A	3	9
+B	13	12
+C	5	7
+E	10	17
+H	7	7
+Suma końcowa	38	52

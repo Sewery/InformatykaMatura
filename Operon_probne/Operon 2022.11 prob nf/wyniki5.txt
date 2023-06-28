@@ -1,0 +1,26 @@
+zad 5.1
+TYTUL	IloscWyborow
+Mój czas dla ciebie	20
+
+zad5.2
+Ilosc seriali: 40
+Ilosc filmow: 53
+
+zad5.3
+
+IMIE	NAZWISKO	LiczbaOgladnietychSeriali
+Hanna	Lejer	36
+Natalia	Łata	15
+
+zad5.4
+IMIE	NAZWISKO
+Patrycja	Sawicka
+
+zad5.5
+IMIE	NAZWISKO
+Alicja	Szyło
+Karolina	Chylarecka
+Katarzyna	Ostaszkiewicz
+
+zad5.6
+I że cię nie opuszczę

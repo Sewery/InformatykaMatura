@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598738800 source:c:\users\mariola mañkowska\desktop\szko£a\arkusze\arkusze do wysy³ki\arkusz ii.2 - rozwi¹zania\zadanie 4\zad4\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

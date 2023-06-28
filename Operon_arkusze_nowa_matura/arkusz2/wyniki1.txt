@@ -1,0 +1,24 @@
+Zad1_1
+52
+Zad1_2
+65
+Zad1_3
+W systemie 2:52
+W systemie 3:52
+W systemie 4:51
+W systemie 5:52
+W systemie 6:60
+W systemie 7:58
+W systemie 8:55
+W systemie 9:42
+W systemie 10:43
+W systemie 11:38
+W systemie 12:57
+W systemie 13:56
+W systemie 14:56
+W systemie 15:58
+W systemie 16:65
+Zad1_4
+0 15 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+6 11 5 7 8 9 10 11 12 13 14 15 16 
+9 9 2 8 10 11 12 13 14 15 16 

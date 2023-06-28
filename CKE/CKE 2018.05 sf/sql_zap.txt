@@ -1,0 +1,4 @@
+zad6_5
+SELECT awarie.Numer_komputera, awarie.Priorytet FROM awarie where awarie.Priorytet>=8; 
+
+SELECT count(komputery.Numer_komputera) from komputery LEFT join st_zad6_5pom on komputery.Numer_komputera=st_zad6_5pom.Numer_komputera Where st_zad6_5pom.Numer_komputera is null; 

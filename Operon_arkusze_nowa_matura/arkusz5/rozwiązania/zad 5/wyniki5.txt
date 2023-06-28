@@ -1,0 +1,17 @@
+5.1
+Rok 	Czas [h]
+2020	12
+2021	1257
+2022	1218
+
+5.2
+Kraj	Liczba odwiedzin
+Litwa		39
+Australia	39
+Japonia		44
+
+5.3
+adres IP
+109.48.52.138
+13.183.15.130
+
